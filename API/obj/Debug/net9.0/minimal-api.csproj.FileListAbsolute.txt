@@ -121,3 +121,15 @@ C:\Users\KAREN\Desktop\Projetos em C#\minimal-api\minimal-api\bin\Debug\net9.0\S
 C:\Users\KAREN\Desktop\Projetos em C#\minimal-api\minimal-api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\KAREN\Desktop\Projetos em C#\minimal-api\minimal-api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\KAREN\Desktop\Projetos em C#\minimal-api\minimal-api\obj\Debug\net9.0\minimal-api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\KAREN\Desktop\Projetos em C#\minimal-api\minimal-api\API\obj\Debug\net9.0\minimal-api.csproj.AssemblyReference.cache
+C:\Users\KAREN\Desktop\Projetos em C#\minimal-api\minimal-api\API\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\KAREN\Desktop\Projetos em C#\minimal-api\minimal-api\API\obj\Debug\net9.0\minimal-api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAREN\Desktop\Projetos em C#\minimal-api\minimal-api\API\obj\Debug\net9.0\minimal-api.AssemblyInfoInputs.cache
+C:\Users\KAREN\Desktop\Projetos em C#\minimal-api\minimal-api\API\obj\Debug\net9.0\minimal-api.AssemblyInfo.cs
+C:\Users\KAREN\Desktop\Projetos em C#\minimal-api\minimal-api\API\obj\Debug\net9.0\minimal-api.csproj.CoreCompileInputs.cache
+C:\Users\KAREN\Desktop\Projetos em C#\minimal-api\minimal-api\API\obj\Debug\net9.0\minimal-api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\KAREN\Desktop\Projetos em C#\minimal-api\minimal-api\API\obj\Debug\net9.0\minimal-api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\KAREN\Desktop\Projetos em C#\minimal-api\minimal-api\API\obj\Debug\net9.0\minimal-api.sourcelink.json
+C:\Users\KAREN\Desktop\Projetos em C#\minimal-api\minimal-api\API\obj\Debug\net9.0\minimal-api.dll
+C:\Users\KAREN\Desktop\Projetos em C#\minimal-api\minimal-api\API\obj\Debug\net9.0\refint\minimal-api.dll
+C:\Users\KAREN\Desktop\Projetos em C#\minimal-api\minimal-api\API\obj\Debug\net9.0\minimal-api.pdb

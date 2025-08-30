@@ -3572,11 +3572,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KAREN\\Desktop\\Projetos em C#\\minimal-api\\minimal-api\\minimal-api.csproj",
+      "projectUniqueName": "C:\\Users\\KAREN\\Desktop\\Projetos em C#\\minimal-api\\minimal-api\\API\\minimal-api.csproj",
       "projectName": "minimal-api",
-      "projectPath": "C:\\Users\\KAREN\\Desktop\\Projetos em C#\\minimal-api\\minimal-api\\minimal-api.csproj",
+      "projectPath": "C:\\Users\\KAREN\\Desktop\\Projetos em C#\\minimal-api\\minimal-api\\API\\minimal-api.csproj",
       "packagesPath": "C:\\Users\\KAREN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KAREN\\Desktop\\Projetos em C#\\minimal-api\\minimal-api\\obj\\",
+      "outputPath": "C:\\Users\\KAREN\\Desktop\\Projetos em C#\\minimal-api\\minimal-api\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\KAREN\\AppData\\Roaming\\NuGet\\NuGet.Config"
